@@ -20,7 +20,7 @@ func main() {
  *   Why ?
  *
  *   Hint :
- *     Think of iteration variable 'v' of line 12
+ *     Think of iteration variable 'v' of line 10
  *     and short variable declaration
  *
  *   Read language specification of for + range @ https://golang.org/ref/spec?source=post_page---------------------------#For_range
